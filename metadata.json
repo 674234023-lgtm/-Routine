@@ -1,0 +1,6 @@
+{
+  "name": "Pinging Your Day",
+  "description": "Personal daily routine, health & fitness, study & work planner, and mindful care companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
